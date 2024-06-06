@@ -12,16 +12,21 @@ Customizable Recommendations: Users can adjust the number of recommendations the
 
 !<img width="607" alt="Screenshot 2024-06-06 at 11 34 45" src="https://github.com/Jonathanferreira999/Spotify-song-recomender/assets/166486887/8689d048-0f99-4dab-9797-8bab3773fb34">
 
-The plot above represent the correlations between feautures and popularity of a song 
+The plot above represent the correlations between feautures and popularity of a song. 
 
 ![newplot (11)](https://github.com/Jonathanferreira999/Spotify-song-recomender/assets/166486887/6eb256c9-b452-4a0f-b624-f7ec48752ebf)
 
-The Plot above represents the distribution of the features during the last 100 years 
+The Plot above represents the distribution of the features during the last 100 years.
 
 ![newplot (12)](https://github.com/Jonathanferreira999/Spotify-song-recomender/assets/166486887/81638198-e006-4879-b2d1-648244141873)
 
 
+
 Above we have the top10 genrs from the Spotifydataset2020 and the features that they have to find similarities.
+
+![newplot (13)](https://github.com/Jonathanferreira999/Spotify-song-recomender/assets/166486887/fff64be2-7ed2-4367-8abe-7c18e761dc46)
+
+K-mean Clustering of genrs and their distribution .
 
 # Usage
  Run the recommender script  : "python src/app.py" 
